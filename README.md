@@ -13,16 +13,14 @@ The same verse is repeated, each time with one fewer bottle. The song is complet
 the singer or singers reach zero.
 Your task here is write a Python program capable of generating all the verses of the song.db
 
-Resuelto en el fichero 'iphython01.py'
+-->Resuelto en el fichero 'iphython01.py'
 
 #Seminario 2
 02 Trabajando con Pokemon
-
-Ejercicio dentro de la carpeta Pokemon.
 
 Vamos a desarrollar el programa de Python que nos permita, a partir de una lista de
 palabras, encontrar la lista más larga posible de palabras de manera que la última letra de
 una palabra coincida con la primera de la siguiente palabra. Para probar el programa la lista
 de palabras con las que vamos a trabajar son la que encontramos en el fichero pokemon.txt
 
-Resuelto en la fichero 'pokemon.py' en la carpeta 'Pokemon'
+-->Resuelto en la fichero 'pokemon.py' en la carpeta 'Pokemon'

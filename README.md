@@ -1,4 +1,6 @@
 # python01
+Repositorio en el que se irán colgando los ejercicios que se van mandando durante la asignatura de Sistemas Distribuidos.
+
 #Seminario1
 01 Botella de ron
 
@@ -15,6 +17,8 @@ Resuelto en el fichero 'iphython01.py'
 
 #Seminario 2
 02 Trabajando con Pokemon
+
+Ejercicio dentro de la carpeta Pokemon.
 
 Vamos a desarrollar el programa de Python que nos permita, a partir de una lista de
 palabras, encontrar la lista más larga posible de palabras de manera que la última letra de

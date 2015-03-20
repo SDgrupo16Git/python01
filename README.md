@@ -1,5 +1,5 @@
 # python01
-Seminario1
+#Seminario1
 01 Botella de ron
 
 "99 Bottles of Beer" is a traditional song in the United States and Canada. It is popular to sing
@@ -13,7 +13,7 @@ Your task here is write a Python program capable of generating all the verses of
 
 Resuelto en el fichero 'iphython01.py'
 
-Seminario 2
+#Seminario 2
 02 Trabajando con Pokemon
 
 Vamos a desarrollar el programa de Python que nos permita, a partir de una lista de

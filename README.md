@@ -24,3 +24,8 @@ una palabra coincida con la primera de la siguiente palabra. Para probar el prog
 de palabras con las que vamos a trabajar son la que encontramos en el fichero pokemon.txt
 
 -->Resuelto en la fichero 'pokemon.py' en la carpeta 'Pokemon'
+
+#Seminario 4
+03 Tercera entrega.
+
+Para esta entrega deberemos haber trabajado ya con el API de Twitter, y haber estado atentos en el Seminario sobre Flask y Jinja2. Los grupos deberán entregar el repositorio donde tenga un programa en Python, que revise las direcciones (latitud y longitud) de los tweets que cumplan una determinada opción, como que sea el más actual, que corresponda a alguna afición (equipo de fútbol, políticas..) y desplegar esas direcciones en un mapa utilizando la extensión de Flask para Google Maps.

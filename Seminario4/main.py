@@ -14,7 +14,7 @@ app = Flask(__name__)
 GoogleMaps(app)
     
 contador = 500 #Se almacenaran 500 twits en el json
-tema = 'Python' #Se buscara la palabra Python
+tema = 'cadiz' #Se buscara la palabra "cadiz"
 twitter_api = funciones.oauth_login() #Autentificacion para el API de Twitter
 search_results = twitter_api.search.tweets(q = tema, count = contador, geocode='36.516667,-6.283333,1000km')
 #Se realiza la busqueda y en twitter con los parametros anteriores ademas de la geolocalizacion de cadiz

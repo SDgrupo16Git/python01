@@ -8,7 +8,5 @@ user@equipo:/$python main.py
 
 El programa generará un fichero json en el que se almacenarán 500 tuits recibidos por la plataforma Twitter a una distancia no superior a 1000 km de Cádiz. Entre estos tuits, buscará la palabra 'cadiz' y obtendrá la geolocalización de los tuits que contengan dicha palabra. 
 
-** Incorporado formulario al html, disponible la segunda entrega en al carpeta /Seminario4/SegundaEntrega **
-
 El resultado se mostrará en su navegador si accede a la dirección "127.0.0.1:5000"
 
